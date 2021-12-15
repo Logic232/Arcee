@@ -35,7 +35,7 @@ Here's a tutorial to set up Arcee on your own account in *less than 3 minutes.*
 
 You can deploy the bot the heroku yourself using the button below!
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FArceeOfficial%2FArcee%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2FArceeOfficial%2FArcee%2Ftree%2Fmainhttps://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FArceeOfficial%2FArcee%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2FArceeOfficial%2FArcee%2Ftree%2Fmain)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Logic232%2FArcee%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2FLogic232%2FArcee%2Ftree%2Fmainhttps://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FLogic232%2FArcee%2Ftree%2Fmain&template=https%3A%2F%2Fgithub.com%2FLogic232%2FArcee%2Ftree%2Fmain)
 
 
 

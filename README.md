@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/Arcee_Logo.jpg" height="400px"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.analyticsinsight.net%2Fcan-artificial-brain-enable-robots-perform-complex-tasks%2F&psig=AOvVaw0MaUiyr9AzAUONwXV3KTxY&ust=1639660474936000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNiisbfx5fQCFQAAAAAdAAAAABAD" height="400px"/>
 </p>
 
 

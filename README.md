@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Arcee_Logo.jpg" height="400px"/>
+<img src="images/Arcee_Logo.jpg" height="400px"/>
 </p>
 
 
